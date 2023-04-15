@@ -18,6 +18,3 @@ private static final String CONFIG_PATH = System.getProperty("user.dir")+"/src/t
         return credentialsConfig;
 }
     }
-//C:\Users\Ahmed\eclipse-workspace\FoodicsAPI\src\test\java\com\FoodicsAP\resources\credentials.properties (The system cannot find the path specified)
-
-//C:\Users\Ahmed\eclipse-workspace\FoodicsAPI\src\test\java\com\FoodicsAPI\resources\credentials.properties
